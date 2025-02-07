@@ -1,5 +1,5 @@
 ---
-title: "Articles"
+title: "Mon blog"
 order: 4
 in_menu: true
 ---
@@ -17,4 +17,4 @@ in_menu: true
   <a href="{{post.url | relative_url}}"> Lire l'article ➞ </a>
 </article>
 <hr />
-{% endfor %}
+{% endfor %} 
