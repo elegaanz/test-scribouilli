@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Articles
-permalink: /articles/
+title: "Articles"
+order: 4
+in_menu: true
 ---
 <aside>
   S'abonner via le <a href="{{ '/feed.xml' | relative_url }}">flux RSS</a>
