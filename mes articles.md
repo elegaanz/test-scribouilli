@@ -1,5 +1,5 @@
 ---
-title: "Mes Articles"
+title: "Mes articles"
 order: 1
 in_menu: true
 blog_index: true
