@@ -3,4 +3,4 @@ title: "Activités"
 order: 1
 in_menu: true
 ---
-je fais plein d'activités 
+je fais plein d'activités j'aime les activités 
