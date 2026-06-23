@@ -1,3 +1,7 @@
 :root {
     --couleur-primaire : #2a6442;
 }
+
+body {
+  font-family: "Comic Sans MS";
+}
